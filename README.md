@@ -4,7 +4,7 @@
 This smart contract written in Solidity, designed to facilitate the creation and management of the Ember (EMB) token. This README provides an overview of the purpose and functionality of the Ember Token Contract.
 
 ### Defining the Token Details: 
-The contract stores the details of the Ember token, including its name, abbreviation, and total supply. These details can be accessed publicly.
+The contract stores the details of the token, including the Token name, Token abbreviation, and total supply. These details can be accessed publicly.
 
 ### Checking the Balance: 
 The contract maintains a mapping of addresses to token balances, allowing for easy tracking of token ownership and balance for each address.
